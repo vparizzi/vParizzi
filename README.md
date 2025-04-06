@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vitória 👋
 
-<!--
-**vparizzi/vParizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hobies
+* Desenhar;
+* Ouvir música;
+* Ler;
 
-Here are some ideas to get you started:
+### Formação
+* Grow Dev
+* FAM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+![Ícone do HTML](https://img.icons8.com/?size=50&id=20909&format=png&color=000000) ![Ícone do CSS](https://img.icons8.com/?size=50&id=21278&format=png&color=000000) ![Ícone do JS](https://img.icons8.com/?size=50&id=108784&format=png&color=000000) 
+
+
+### Contatos
+ [![Ícone do outlook](https://img.icons8.com/?size=50&id=117562&format=png&color=000000)](mailto:vitoria_parizzi@hotmail.com)   [![Ícone do Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000) ](https://www.linkedin.com/in/vitoria-parizzi-nogueira-14b072114/)
