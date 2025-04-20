@@ -6,8 +6,8 @@
 * Ler;
 
 ### Formação
-* Grow Dev
-* FAM
+* Grow Dev - Programa Starter+ #ElasNoFront
+* FAM - Análise e Desenvolvimento de Sistemas
 
 ## Linguagens
 ![Ícone do HTML](https://img.icons8.com/?size=50&id=20909&format=png&color=000000) ![Ícone do CSS](https://img.icons8.com/?size=50&id=21278&format=png&color=000000) ![Ícone do JS](https://img.icons8.com/?size=50&id=108784&format=png&color=000000) 
